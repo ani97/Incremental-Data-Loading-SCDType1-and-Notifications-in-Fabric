@@ -1,1 +1,0 @@
-# Incremental-Data-Loading-SCDType1-and-Notifications-in-Fabric
